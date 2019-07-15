@@ -14,7 +14,7 @@ Identificare le aree, strade o incroci, critiche di NEW YORK al variare delle co
 
 * Kaggle DataSet - Vehicle Collision 2015/2016 https://www.kaggle.com/nypd/vehicle-collisions  
 * Kaggle DataSet - Weather Data in New York City 2016 https://www.kaggle.com/mathijs/weather-data-in-new-york-city-2016
-* API Mapquest - Real time traffic da luglio 2019 + TMC event-code (standard Alert-C event codes) -  TMC/Event Code List (wikipedia https://developer.mapquest.com/documentation/samples/traffic/v2/incidents/ 
+* API Mapquest - Real time traffic da luglio 2019 + TMC event-code (standard Alert-C event codes) -  TMC/Event Code List (wikipedia https://developer.mapquest.com/documentation/samples/traffic/v2/incidents/ )
 * Scraping Weather da luglio 2019 https://www.wunderground.com
 
 ## Obiettivi dell'analisi
